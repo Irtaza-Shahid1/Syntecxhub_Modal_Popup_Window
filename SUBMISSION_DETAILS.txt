@@ -1,8 +1,0 @@
-Project: Personal Portfolio Website
-Student: Irtaza Shahid
-Program: BSCS, Semester 4
-Domain: Front-End Development
-Technologies: HTML and CSS
-
-The project includes About, Skills, Projects and Contact sections.
-It is responsive for desktop, tablet and mobile screens and includes hover effects and transitions.
